@@ -57,9 +57,19 @@
 제공 회사：Google Inc.
 이용 목적：자료 저장 및 배포
 제공 항목：컨텐츠 제공
+
+ - KakaoOpenSDK
+제공 회사：kakao Inc.
+이용 목적：도서 관려 정보 조회
+제공 항목：도서 Isbn 코드
+
+ - GoogleSDK
+ 제공 회사：Google Inc.
+ 이용 목적：Google 소셜 로그인
+ 제공 항목：소셜 로그인 연동을 위한 최소 정보(개인정보 수집 없음)
 ```
 
 9. 개인정보 보호책임자 작성
 ```
-이메일 : dldbdjq@gmail.com
+이메일 : tootoomaa@naver.com
 ```
